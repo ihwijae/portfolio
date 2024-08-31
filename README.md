@@ -38,4 +38,5 @@
 > 기술 스택:  
 > AWS EC2 / Docker / Docker-Compose / Nginx / DNS /
 >
+> [데모 링크](https://www.workcongw.store/)
 > [프로젝트 상세 설명](https://github.com/ihwijae/workcon-release)
