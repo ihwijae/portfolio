@@ -7,11 +7,13 @@
 - 개발 과정에서 흡연이 집중력을 방해하는 행위라고 느껴 더 개발에 집중하기 위해 금연 했습니다.
 - 회복탄력성, 목표 달성 의지를 바탕으로 프로젝트의 성공에 기여하겠습니다.
 
+</br>
 
 ### 🔍 Contact
 - 이메일: lhj851@gmail.com
 - 깃허브: https://github.com/ihwijae
 
+</br>
 
 ### Projects
 #### - WorkConGW
