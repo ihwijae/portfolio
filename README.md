@@ -16,6 +16,7 @@
 <br>
 
 ## 🧑🏻‍💻 Projects
-### [WorkConGW](https://github.com/ihwijae/WorkConGW)
+### [WorkConGW](https://github.com/ihwijae/WorkConGW) 
+> 4인 프로젝트  
 > 실제 상용화되고 있는 그룹웨어 프로젝트를 참고하여 제작했습니다.  
 > 추가적으로 깃허브 프로젝트, 이슈관리, 마일스톤 기능을 착안하여 제작했습니다.  
