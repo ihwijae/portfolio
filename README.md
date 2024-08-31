@@ -17,7 +17,7 @@
 <br>
 
 ## 🧑🏻‍💻 Projects
-### - [WorkConGW](https://github.com/ihwijae/WorkConGW) 
+### 1. [WorkConGW](https://github.com/ihwijae/WorkConGW) 
 > 중소기업의 업무를 편하게 해주는 컨셉으로 만든 그룹웨어 프로젝트 (4인프로젝트)  
 > 개발 기간: 2024.01 ~ 2024.03  
 > 
