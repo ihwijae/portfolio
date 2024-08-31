@@ -24,5 +24,5 @@
 > 일정관리, 시설예약(민원, 공지포함)
 > 
 > 기술 스택:  
-> Java 17 / Spring / Spring Boot / JavaScript / JQuery /
+> Java 17 / Spring / Spring Boot / JavaScript / JQuery /  
 > JSP / CSS / Oracle / MyBatis / Git / BootStrap
