@@ -27,6 +27,12 @@
 > 기술 스택:  
 > Java 17 / Spring / Spring Boot / JavaScript / JQuery /  
 > JSP / CSS / Oracle / MyBatis / Git / BootStrap
-
+>
+> [프로젝트 상세 설명](https://github.com/ihwijae/WorkConGW)
 ---
-### [WorkconGW-Release](https://github.com/ihwijae/workcon-release)
+
+### 2. [WorkconGW-Release](https://github.com/ihwijae/workcon-release)
+> WorkConGW 프로젝트 1인 배포
+> 개발 기간: 2024.07 ~ 2024.08
+>
+> 
