@@ -32,7 +32,10 @@
 ---
 
 ### 2. [WorkconGW-Release](https://github.com/ihwijae/workcon-release)
-> WorkConGW 프로젝트 1인 배포
-> 개발 기간: 2024.07 ~ 2024.08
+> WorkConGW 프로젝트 1인 배포  
+> 개발 기간: 2024.07 ~ 2024.08  
 >
-> 
+> 기술 스택:  
+> AWS EC2 / Docker / Docker-Compose / Nginx / DNS /
+>
+> [프로젝트 상세 설명](https://github.com/ihwijae/workcon-release)
