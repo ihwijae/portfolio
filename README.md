@@ -38,7 +38,7 @@
 > 기술 스택:  
 > AWS EC2 / Docker / Docker-Compose / Nginx / DNS /
 >
-> [데모 링크](https://www.workcongw.store/)
+> [데모 링크](https://workcongw.store/)
 >
 > 테스트 ID : 00001 ~ 00005<br>
 > 테스트 PW : 1024
