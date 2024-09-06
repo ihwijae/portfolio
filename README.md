@@ -45,6 +45,14 @@
 > WorkConGW 프로젝트 1인 배포  
 > 개발 기간: 2024.07 ~ 2024.08  
 >
+> 구현 목록:
+> - Docker 기술을 사용하여 AWS EC2에 배포  
+> - Docker-compose를 활용하여 여러개의 컨테이너 관리 경험 습득  
+> - 기존에 고려하지 않았던 Nginx (Web Server)를 서버 앞단에 구성하여 Reverse proxy 사용  
+> - 가비아 DNS를 활용하여 AWS의 Route 53 활용
+> - SSL 인증서를 활용하여 HTTPS 프로토콜 구현
+>
+>
 > 기술 스택:  
 > AWS EC2 / Docker / Docker-Compose / Nginx / DNS /
 >
