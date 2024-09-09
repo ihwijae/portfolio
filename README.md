@@ -34,7 +34,9 @@
 > - 위의 기능은 관리자만 확인할 수 있는 사이드바 메뉴로 보이게 설계  
 > - 시설 공지, 사용자가 접수 가능한 민원 기능 구현  
 >
-> <img width="1300" alt="image" src="https://github.com/user-attachments/assets/75e5f173-d837-4ae4-9c86-02ac35b11638">
+> <img width="900" alt="image" src="https://github.com/user-attachments/assets/a3b5726e-9316-4d46-87f8-f92ec4868ef6">
+
+> 
 
 > 
 > 기술 스택:  
