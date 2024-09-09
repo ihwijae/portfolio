@@ -52,6 +52,8 @@
 > - 가비아 DNS를 활용하여 AWS의 Route 53 활용
 > - SSL 인증서를 활용하여 HTTPS 프로토콜 구현
 >
+> <img width="1109" alt="image" src="https://github.com/user-attachments/assets/a6a1f2d6-838f-411f-952a-f79e74cfeab9">
+
 >
 > 기술 스택:  
 > AWS EC2 / Docker / Docker-Compose / Nginx / DNS /
